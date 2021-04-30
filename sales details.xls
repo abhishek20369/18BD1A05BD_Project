@@ -1,0 +1,141 @@
+<table id="sales_op" class="table table-striped table-head-fixed text-nowrap">
+                      <thead>
+                          <tr>
+                              <th style="width: 10%">Purchase Date</th>
+                              <th style="width: 10%">Mobile ID</th>
+                              <th style="width: 10%">Unit Price</th>
+                              <th style="width: 10%">Quantity</th>
+                              <th style="width: 15%">Total Sales(in Rs)</th>
+                          </tr>
+                      </thead>
+                      <tbody>
+                          
+                              <tr>
+                                  <td>2021-04-20</td>
+                                  <td>11</td>
+                                  <td>105999</td>
+                                  <!--<td>
+                                    <div class="progress progress-xs">
+                                        <div class="progress-bar bg-success" style="width:1%"></div>
+                                    </div>
+                                        <small>1</small></td>
+                                  </td>-->
+                                  <td>
+                                    
+                                      <div class="progress progress-xs">
+                                        <div class="progress-bar bg-danger" style="width:1% "></div>
+                                      </div>
+                                      <small> 1 </small>
+                                    
+                                  </td>
+                                  <td>105999</td>
+                              </tr>
+                          
+                              <tr>
+                                  <td>2021-04-21</td>
+                                  <td>12</td>
+                                  <td>135999</td>
+                                  <!--<td>
+                                    <div class="progress progress-xs">
+                                        <div class="progress-bar bg-success" style="width:1%"></div>
+                                    </div>
+                                        <small>1</small></td>
+                                  </td>-->
+                                  <td>
+                                    
+                                      <div class="progress progress-xs">
+                                        <div class="progress-bar bg-danger" style="width:1% "></div>
+                                      </div>
+                                      <small> 1 </small>
+                                    
+                                  </td>
+                                  <td>135999</td>
+                              </tr>
+                          
+                              <tr>
+                                  <td>2021-04-22</td>
+                                  <td>18</td>
+                                  <td>69999</td>
+                                  <!--<td>
+                                    <div class="progress progress-xs">
+                                        <div class="progress-bar bg-success" style="width:10%"></div>
+                                    </div>
+                                        <small>10</small></td>
+                                  </td>-->
+                                  <td>
+                                    
+                                      <div class="progress progress-xs">
+                                        <div class="progress-bar bg-success" style="width:10% "></div>
+                                      </div>
+                                      <small> 10 </small>
+                                    
+                                  </td>
+                                  <td>699990</td>
+                              </tr>
+                          
+                              <tr>
+                                  <td>2021-04-22</td>
+                                  <td>14</td>
+                                  <td>17999</td>
+                                  <!--<td>
+                                    <div class="progress progress-xs">
+                                        <div class="progress-bar bg-success" style="width:3%"></div>
+                                    </div>
+                                        <small>3</small></td>
+                                  </td>-->
+                                  <td>
+                                    
+                                      <div class="progress progress-xs">
+                                        <div class="progress-bar bg-danger" style="width:3% "></div>
+                                      </div>
+                                      <small> 3 </small>
+                                    
+                                  </td>
+                                  <td>53997</td>
+                              </tr>
+                          
+                              <tr>
+                                  <td>2021-04-22</td>
+                                  <td>15</td>
+                                  <td>37990</td>
+                                  <!--<td>
+                                    <div class="progress progress-xs">
+                                        <div class="progress-bar bg-success" style="width:3%"></div>
+                                    </div>
+                                        <small>3</small></td>
+                                  </td>-->
+                                  <td>
+                                    
+                                      <div class="progress progress-xs">
+                                        <div class="progress-bar bg-danger" style="width:3% "></div>
+                                      </div>
+                                      <small> 3 </small>
+                                    
+                                  </td>
+                                  <td>113970</td>
+                              </tr>
+                          
+                              <tr>
+                                  <td>2021-04-30</td>
+                                  <td>19</td>
+                                  <td>32999</td>
+                                  <!--<td>
+                                    <div class="progress progress-xs">
+                                        <div class="progress-bar bg-success" style="width:5%"></div>
+                                    </div>
+                                        <small>5</small></td>
+                                  </td>-->
+                                  <td>
+                                    
+                                      <div class="progress progress-xs">
+                                        <div class="progress-bar bg-success" style="width:5% "></div>
+                                      </div>
+                                      <small> 5 </small>
+                                    
+                                  </td>
+                                  <td>164995</td>
+                              </tr>
+                          
+                          
+                      </tbody>
+                      </table>
